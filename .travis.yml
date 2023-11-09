@@ -1,4 +1,4 @@
 ---
 dist: focal
 language: python 
-script: python3 hello.py
+script: python3 main.py
