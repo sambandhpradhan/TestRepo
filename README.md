@@ -1,3 +1,3 @@
 # TestRepo
 
-This is a test repo to try out Travis-ci.
+This is a test repo to try out Travis-ci functionalities.
